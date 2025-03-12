@@ -1,6 +1,6 @@
-# 생체신호 데이터 분석 학습 자료
+# learning biosignal and data analysis
 
-생체신호(Biosignals)의 이해와 데이터 분석 학습 아카이빙입니다.
+'생체 신호(Biosignals)와 데이터 분석' 학습 아카이빙입니다.
 
 ## 개요
 
